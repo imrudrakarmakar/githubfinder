@@ -7,5 +7,5 @@
 <p> You can give your local host id in <b>Homepage URL</b> also in <b>Authorization callback URL</b> </p>
 <p> After submitting <b>Register application</b> you will get your Client ID and Client Secret</p>
 <p>  </p>
-<p>  </p>
+<p> Then go to https://api.github.com/users/ website to get the users and repos. </p>
 <p>  </p>
